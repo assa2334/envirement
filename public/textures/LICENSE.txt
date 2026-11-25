@@ -1,0 +1,23 @@
+PBR Texture Assets License Verification
+======================================
+
+All external image textures in this directory are licensed under
+CC0 1.0 Universal (Public Domain Dedication).
+
+License Terms (CC0 1.0):
+- Commercial use: Allowed
+- Modification & redistribution: Allowed
+- Attribution: Not required (provided here for transparency)
+- License URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+Included Texture Sets (1K JPG):
+1. aerial_rocks_02 (Author: Rob Tuytel, Poly Haven)
+   - Source: https://polyhaven.com/a/aerial_rocks_02
+   - Files: diff_1k.jpg (Albedo), nor_gl_1k.jpg (OpenGL Normal), rough_1k.jpg (Roughness)
+   - Used for: Steep mountain cliffs, fractured ridges, high-altitude rock faces, boulders.
+
+2. Grass004 (ambientCG, CC0 1.0 Public Domain)
+   - Source: https://ambientcg.com/a/Grass004
+   - Local folder: /textures/grass/
+   - Files: diff_1k.jpg (Grass004_1K-JPG_Color.jpg), nor_gl_1k.jpg (Grass004_1K-JPG_NormalGL.jpg), rough_1k.jpg (Grass004_1K-JPG_Roughness.jpg)
+   - Used for: Foothills, gentle mountain slopes, and alpine vegetation patches.

@@ -1,0 +1,6 @@
+{
+  "name": "Alpine Island Massif — 3D Mountain Environment",
+  "description": "Standalone Three.js 3D island mountain environment with CC0 1K PBR rock textures, slope-blended cliffs, atmospheric lighting, and interactive orbit inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
